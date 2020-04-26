@@ -5,6 +5,9 @@
  */
 
 module.exports = {
+  /* GitHub Pages */
+  pathPrefix: `/blog`,
+  
   /* Your site config here */
   siteMetadata: {
     title: `jamming.fm`,
